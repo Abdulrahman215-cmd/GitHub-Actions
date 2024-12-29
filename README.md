@@ -1,3 +1,3 @@
-﻿# GitHub-Actions
+﻿# GitHub-Action
 ### Hello everyone
 this is it
